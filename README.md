@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-devendra&label=Profile%20views&color=0e75b6&style=flat" alt="code-devendra" /> </p>
 
-- 🔭 I’m currently working on **final year major project**
-
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://codedevendra.vercel.app](https://codedevendra.vercel.app)
